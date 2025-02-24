@@ -13,6 +13,7 @@
   "dependencies": {
     "@avalabs/avacloud-sdk": "^0.9.0",
     "@avalabs/avalanchejs": "4.1.2-alpha.4",
+    "@fumadocs/mdx-remote": "^1.2.0",
     "@icons-pack/react-simple-icons": "^12.0.0",
     "@noble/bls12-381": "^1.4.0",
     "@radix-ui/react-alert-dialog": "^1.1.6",
@@ -50,7 +51,7 @@
     "react-use-measure": "^2.1.7",
     "rehype-katex": "^7.0.0",
     "remark-math": "^6.0.0",
-    "shiki": "^3.0.0",
+    "shiki": "^2.1.0",
     "tailwind-merge": "^3.0.2",
     "tailwindcss-animate": "^1.0.7",
     "tsx": "^4.19.3",
