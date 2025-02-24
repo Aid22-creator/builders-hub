@@ -33,7 +33,7 @@
     "framer-motion": "^12.4.2",
     "fumadocs-core": "15",
     "fumadocs-mdx": "11.1.2",
-    "fumadocs-twoslash": "^2.0.2",
+    "fumadocs-twoslash": "^3.0.0",
     "fumadocs-typescript": "^3.0.2",
     "fumadocs-ui": "15",
     "geist": "^1.3.1",
